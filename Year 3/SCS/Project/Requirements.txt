@@ -1,0 +1,34 @@
+GITHUB TUDORCOROIAN17
+
+1. Alegerea temei
+2. Faza de documentare - sapt 3 Verificare
+3. Faza de proiectare A
+4. Faza de proiectare B - sapt 7 Verificare
+5. Faza de implementare - sapt 9 Verificare
+6. Prezentarea Proiectului - sapt 13 Verificare
+
+( S3 + S7 + S9 + S13 ) / 4 = 20%notaFinala
+
+--------------------------------------------------------------------------------
+Proiect ales: Unitate de calcul în virgulă mobilă: împărțirea
+--------------------------------------------------------------------------------
+ULTIMA VARIANTA DE DOCUMENTAȚIA + SURSA
+
+DOCUMENTAȚIA:
+	ce nu se explică in proiect e la latitudinea noastră
+	CUPRINS:
+		1. Introducere
+		2. Studiu Bibliografic
+		3. Analiza
+		4. Design
+		5. Implementare
+		6. Testare și Validare
+		7. Conclizii
+		8. Anexă: Bibliografia
+	EXEMPLU: https://github.com/tudorcoroian17/CPU/blob/main/CPU_Documentation.pdf
+
+Pentru S3 (într-un fisier PDF/WORD)
+	-studiu bibliografic (implementări deja făcute)
+	-soluția propusă
+	-plan de proiect
+
